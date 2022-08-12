@@ -26,8 +26,7 @@ $ npm run serve
 |`hairColor`|Avatar hair color|Hex color changing the `#` for `%23`|
 |`backgroundColor`|Background color|Hex color changing the `#` for `%23`|
 |`pattern`|Avatar pattern|`jawPattern`, `rightEyePattern`, `leftEyePattern`|
-|`ears`|Avatar ears|`prickEars`,`buttonEars`,`roseEars`,`cowEars`,`heartShapeEars`,
-`bearEars`,`reindeerEars`,`foldedEars`,`ellipseEars`,`batEars`,`deerEars`,`giraffeEars`,`goatEars`,`mouseEars`|
+|`ears`|Avatar ears|`prickEars`, `buttonEars`, `roseEars`, `cowEars`, `heartShapeEars`, `bearEars`, `reindeerEars`, `foldedEars`, `ellipseEars`, `batEars`, `deerEars`, `giraffeEars`, `goatEars`, `mouseEars`|
 |`hair`|Avatar hair|`curlyHair`, `fringeHair`, `palmTreeHair`, `crestHair`|
 |`muzzle`|Avatar muzzle|`tongueMuzzle`, `whiteNeutralMuzzle`, `bullMuzzle`, `smallTongueMuzzle`, `smallSmileyMuzzle`, `smileyWhiteMuzzle`, `worriedMuzzle`, `boarMuzzle`, `hippoMuzzle`, `sideSmileyMuzzle`, `catMuzzle`, `neutralMuzzle`, `sealMuzzle`, `smileyMuzzle`, `horseMuzzle`, `monkeyMuzzle`|
 |`eyes`|Avatar eyes|`brightEyes`, `downEyes`, `upEyes`, `brighterEyes`, `twoSideEyes`, `triangleEyes`, `leftEyes`, `distantLeftEyes`|
@@ -36,5 +35,5 @@ $ npm run serve
 For example the image above was obtained with
 
 ```
-https://${URL}/?size=300&round=true&blackout=true&avatarColor=%23255f85&hairColor=%23ffc857&backgroundColor=%23481d24&pattern=jawPattern&ears=reindeerEars&hair=crestHair&muzzle=bullMuzzle&eyes=upEyes&brows=ellipseBrows
+?size=300&round=true&blackout=true&avatarColor=%23255f85&hairColor=%23ffc857&backgroundColor=%23481d24&pattern=jawPattern&ears=reindeerEars&hair=crestHair&muzzle=bullMuzzle&eyes=upEyes&brows=ellipseBrows
 ```
