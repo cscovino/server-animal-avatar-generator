@@ -35,5 +35,5 @@ $ npm run serve
 For example the image above was obtained with
 
 ```
-?size=300&round=true&blackout=true&avatarColor=%23255f85&hairColor=%23ffc857&backgroundColor=%23481d24&pattern=jawPattern&ears=reindeerEars&hair=crestHair&muzzle=bullMuzzle&eyes=upEyes&brows=ellipseBrows
+https://animal-avatar.up.railway.app/?size=300&round=true&blackout=true&avatarColor=%23255f85&hairColor=%23ffc857&backgroundColor=%23481d24&pattern=jawPattern&ears=reindeerEars&hair=crestHair&muzzle=bullMuzzle&eyes=upEyes&brows=ellipseBrows
 ```
